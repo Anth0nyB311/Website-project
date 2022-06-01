@@ -31,6 +31,10 @@ border: 80px;
     background-color: black;
     border-width: 100%;
 }
+.imageborder2{
+    background-color:darkgray;
+    border-width: 100%;
+}
 .spaces {
     padding-top: 1px; width:110%;
   box-sizing: border-box;
@@ -61,5 +65,27 @@ padding-left: 50px;
   background-color: black;
       
   }
+  .spaces5 {
+    padding-top: 1px;
+    box-sizing: border-box; width:100%;
+  position:fixed; left: 630px;
+  background-color: black;
+  }
+  .spaces6 {
+    padding-top: 1px;
+    box-sizing: border-box; width:100%;
+  position:fixed; left: 750px;
+  background-color: black;
+  }
+  .spaces7 {
+    padding-top: 7px;
+    box-sizing: border-box; width:100%;
+  position:fixed; left: 1250px;
+  background-color: black;
+  }
 
-  
+  .text2 {
+    background-image: repeating-linear-gradient(to left, indigo, yellow, orange, red);
+    -webkit-background-clip:text; 
+    color: transparent;
+  }

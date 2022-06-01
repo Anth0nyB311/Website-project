@@ -4,7 +4,7 @@ p, li, a {
     font-family: Verdana, Geneva, Tahoma, sans-serif, Tahoma, sans-serif;
     }
 
-    h1, h2, h3, h3 {
+    h1, h2, h3, h3, h4, h5 {
         font-size: 40px;
         border: 80px;
     }
@@ -59,7 +59,39 @@ padding-left: 50px;
   
   }
 
+  .spaces5 {
+    padding-top: 1px;
+    box-sizing: border-box; width:100%;
+  position:fixed; left: 630px;
+  background-color: black;
+  }
+
+  .spaces6 {
+    padding-top: 1px;
+    box-sizing: border-box; width:100%;
+  position:fixed; left: 750px;
+  background-color: black;
+  }
+
+
+  
   a[href] {
     color:rgb(18, 163, 37)
    
+  }
+
+  .box {
+      padding-right: 80px;
+  }
+  
+  .box2 {
+    padding-right: 10px;
+    padding-left: 70px;
+}
+
+.spaces7 {
+    padding-top: 6px;
+    box-sizing: border-box; width:100%;
+  position:fixed; left: 1250px;
+  background-color: black;
   }
