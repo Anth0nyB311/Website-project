@@ -86,6 +86,7 @@ padding-left: 50px;
 
   .text2 {
     background-image: repeating-linear-gradient(to left, indigo, yellow, orange, red);
+    background-clip: border-box;
     -webkit-background-clip:text; 
     color: transparent;
   }
