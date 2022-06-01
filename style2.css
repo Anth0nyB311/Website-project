@@ -81,17 +81,29 @@ padding-left: 50px;
   }
 
   .box {
-      padding-right: 80px;
+      padding-right: 70px;
+      padding-top: 40px;
   }
   
   .box2 {
     padding-right: 10px;
     padding-left: 70px;
 }
-
+.box3 {
+  box-sizing: border-box;
+  width: 90%;
+}
 .spaces7 {
     padding-top: 6px;
     box-sizing: border-box; width:100%;
   position:fixed; left: 1250px;
   background-color: black;
+  }
+
+  .flexitem {
+    box-sizing: border-box;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
